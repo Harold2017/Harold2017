@@ -1,5 +1,7 @@
 The first step in solving any problem is recognizing there is one.
 
+![](https://github-profile-trophy.vercel.app/?username=harold2017&column=8&theme=nord)
+
 <!--
 **Harold2017/Harold2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
