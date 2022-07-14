@@ -1,5 +1,7 @@
 The first step in solving any problem is recognizing there is one.
 
+![](https://www.codewars.com/users/Harold2017/badges/micro)
+
 ![](https://github-profile-trophy.vercel.app/?username=harold2017&column=8&theme=nord)
 
 <!--
