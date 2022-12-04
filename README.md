@@ -4,7 +4,7 @@ The first step in solving any problem is recognizing there is one.
 
 ![profile](https://github-profile-trophy.vercel.app/?username=harold2017&column=8&theme=nord)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold2017&hide=ipynb,html&layout=compact&theme=radical)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold2017&hide=ipynb,html&layout=compact&theme=merko)
 
 <!--
 **Harold2017/Harold2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
