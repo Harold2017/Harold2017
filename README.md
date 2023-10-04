@@ -2,7 +2,7 @@ The first step in solving any problem is recognizing there is one.
 
 [![codewars](https://www.codewars.com/users/Harold2017/badges/micro)](https://www.codewars.com/users/Harold2017) [![wakatime](https://wakatime.com/badge/user/ea1d7412-be89-4367-84e0-eb461f6ae262.svg?style=default)](https://wakatime.com/@ea1d7412-be89-4367-84e0-eb461f6ae262)
 
-![profile](https://github-profile-trophy.vercel.app/?username=harold2017&column=8&theme=nord)
+![profile](https://github-profile-trophy.vercel.app/?username=harold2017&column=8&theme=nord&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues,PullRequest,Stars).
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold2017&hide=ipynb,html&layout=compact&theme=onedark)
 
