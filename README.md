@@ -2,19 +2,18 @@ The first step in solving any problem is recognizing there is one.
 
 [![codewars](https://www.codewars.com/users/Harold2017/badges/micro)](https://www.codewars.com/users/Harold2017) [![wakatime](https://wakatime.com/badge/user/ea1d7412-be89-4367-84e0-eb461f6ae262.svg?style=default)](https://wakatime.com/@ea1d7412-be89-4367-84e0-eb461f6ae262)
 
-<p align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harold2017&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harold2017&theme=github">
-    <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harold2017&theme=github">
+    <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harold2017&theme=github" width="49%">
   </picture>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harold2017&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harold2017&theme=github">
-    <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harold2017&theme=github">
+    <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harold2017&theme=github" width="49%">
   </picture>
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harold2017/Harold2017/output/github-contribution-grid-snake-dark.svg">
